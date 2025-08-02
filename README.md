@@ -3,7 +3,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/hardikk04/-DOJO-KATANS-ReimagineRound1.git
+ https://github.com/shamayitadatta/coke
 ```
 
 Go to the project directory
